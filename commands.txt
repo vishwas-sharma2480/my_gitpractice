@@ -3,3 +3,7 @@ git status (to track the what is added and what is not)
 git add <> (will add the modified changes in the file specified)
 git add .(will add everything that is untracked)
  git commit -m "<message>"(do a commit -m is to add message)
+git remote -v (to see all the repo url attached to this local repo)
+git remote set-url origin https://vishwas-sharma2480:<access-token>@github.com/vishwas-sharma2480/my_gitpractice.git (to set a usrl to the local repo)
+git push -u origin master (push all the changes to the online repo in master branch)
+
