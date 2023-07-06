@@ -6,4 +6,4 @@ git add .(will add everything that is untracked)
 git remote -v (to see all the repo url attached to this local repo)
 git remote set-url origin https://vishwas-sharma2480:<access-token>@github.com/vishwas-sharma2480/my_gitpractice.git (to set a usrl to the local repo)
 git push -u origin master (push all the changes to the online repo in master branch)
-
+git config --global user.name "Your New Username" (to change username)
