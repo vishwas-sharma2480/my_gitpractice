@@ -8,3 +8,5 @@ git remote set-url origin https://vishwas-sharma2480:<access-token>@github.com/v
 git push -u origin master (push all the changes to the online repo in master branch)
 git config --global user.name "Your New Username" (to change username)
 git config --global user.email "<new-email>" (to change useremail)
+my github access token
+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
